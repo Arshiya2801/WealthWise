@@ -27,9 +27,6 @@ Built using **Next.js**, **Supabase**, **Prisma**, and **Tailwind CSS**, it inte
 
 ---
 
-
----
-
 ## 🧰 Installation
 
 ```bash
